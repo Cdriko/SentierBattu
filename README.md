@@ -13,4 +13,11 @@ Laurent Berthelot
 with the help of
 IUT of Nantes
 
+more infos on
+http://fablabo.net/wiki/SentierBattu
 
+
+#######
+
+For piloting it use fabmodules
+https://github.com/FabModules/fabmodules-html5
