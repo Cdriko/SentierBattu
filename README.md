@@ -4,13 +4,22 @@ large CNC opensource router
 Created by association PiNG 
 http://pingbase.net
 
+License : creative comons CC-BY-SA
+
 Cedric Doutriaux
+
 Laurent Malys
+
 Philippe Bonet
+
 Eric Chotard
+
 Laurent Berthelot
 
+
+
 with the help of
+
 IUT of Nantes
 
 more infos on
